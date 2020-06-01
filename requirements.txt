@@ -1,6 +1,6 @@
 tqdm
 opencv-python
-numpy
+numpy==1.14.5
 matplotlib
 tensorflow==1.10.0
 Django==2.2.10
