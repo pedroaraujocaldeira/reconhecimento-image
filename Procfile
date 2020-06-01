@@ -1,1 +1,1 @@
-web: gunicorn reconhecimento-image.wsgi
+web: gunicorn source.wsgi
